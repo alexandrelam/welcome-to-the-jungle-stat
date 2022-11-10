@@ -22,4 +22,4 @@ Here are the results:
 | Nest JS       | 14                   |
 | c#            | 14                   |
 
-More in [companyNames.json](https://github.com/alexandrelam/welcome-to-the-jungle-stat/blob/main/firststack.json)
+More in [stack.json](https://github.com/alexandrelam/welcome-to-the-jungle-stat/blob/main/stack.json)
